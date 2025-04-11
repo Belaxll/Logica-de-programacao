@@ -1,0 +1,16 @@
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Iniciando preparo de sanduiche");
+
+string[] ingredientes = { "pão", "queijo", "presunto" };
+Console.WriteLine("REUNindo ingredients;" + string.Join(",", ingredientes));
+
+
+    Console.WriteLine("Pegando uma fatia de pão.");
+        Console.WriteLine("Adicionando quiejo.");
+Console.WriteLine("Adicionando presunto.");
+Console.WriteLine("Colocando a outra fatia de pão por cima.");
+
+Console.WriteLine("Cortando o sanduiche ao meio.");
+Console.WriteLine("Sanduiche pronto! Servindo...");
+
+Console.WriteLine("Fim do processo.");
